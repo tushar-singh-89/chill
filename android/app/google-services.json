@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "727127534104",
+    "firebase_url": "https://chill-46e67.firebaseio.com",
+    "project_id": "chill-46e67",
+    "storage_bucket": "chill-46e67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727127534104:android:201c71cb398ccd1d09f16d",
+        "android_client_info": {
+          "package_name": "com.example.Chill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727127534104-6upbe7e2pgh9b8vgqsmll35mnrc0rtla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeb2I-pJ7sv7XUlEeP2Gtg9vZMryR6GZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727127534104-6upbe7e2pgh9b8vgqsmll35mnrc0rtla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
